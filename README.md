@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m Nina
-- 🌱 I’m currently learning full stack web development with the UNC Coding Bootcamp
-- 🔭 I’m currently working on a MERN stack final project
+- 🌱 I’m recently graduated from the UNC Coding Bootcamp
+- 🔭 I’m currently working on the AWS, Python, Java and C# continuing education courses 
 - 👀 I’m looking to start a new career as a developer
 - 💬 Ask me how managing a restaurant uses agile principles 
 - 📫 How to reach me: siegel.nina.m@gmail.com
