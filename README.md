@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m Nina
-- 🌱 I’m recently graduated from the UNC Coding Bootcamp
+- 🌱 I recently graduated from the UNC Coding Bootcamp
 - 🔭 I’m currently working on the AWS, Python, Java and C# continuing education courses 
 - 👀 I’m looking to start a new career as a developer
 - 💬 Ask me how managing a restaurant uses agile principles 
